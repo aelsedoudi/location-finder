@@ -62,7 +62,7 @@ function filterLocations() {
     // Set up a request to the Geocoding API
     // Supported address format is City, City + State, just a street address, or any combo
     var addressStripped = address.split(' ').join('+');
-    var key = 'AIzaSyAhaNYGgiJwsGPtbQaD57W4hXe98GcaNAc';
+    var key = 'API KEY GOES HERE';
     var request = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + addressStripped + '&key=' + key;
 
           // Call the Geocoding API using jQuery GET, passing in the request and a callback function
