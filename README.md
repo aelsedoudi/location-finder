@@ -1,6 +1,6 @@
 # Locations Near Me #
 
-![picture alt](http://www.creatingis.fun//github-screenshots/locationmap.png)
+![location map preview](http://www.creatingis.fun//github-screenshots/locationmap.png)
 
 This is an iteration of a demo of a simple client-side application that leverages the Google Maps JavaScript API to 
 give a user the ability to search for locations of a given business within a specified radius. 
